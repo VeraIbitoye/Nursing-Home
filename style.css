@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: "Manrope", sans-serif;
 }
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
 .container {
   width: 100%;
 }
