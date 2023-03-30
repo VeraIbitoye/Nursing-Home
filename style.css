@@ -5,8 +5,13 @@
   font-family: "Manrope", sans-serif;
 }
 body {
+<<<<<<< HEAD
   width: 100vw;
   overflow-x: hidden;
+=======
+ width: 100vw;
+overflow-x: hidden;
+>>>>>>> ca0521074084a55a43c2e9abfa61aacccfd7aa03
 }
 .container {
   width: 100%;
